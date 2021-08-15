@@ -1,0 +1,25 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin: 100px auto;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+input {
+    margin: 10px;
+}
+
+.random {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    
+}
